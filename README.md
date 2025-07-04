@@ -30,7 +30,7 @@ PyAutoMail is a lightweight Python script that **automates the emailing of daily
 ---
 ## 🙋‍♀️ About Me
 
-Built with 💙 by [Anagha Dixit]
+Built with 💙 by Anagha Dixit
 I'm an aspiring Data Analyst with a passion for automation, Python scripting, and solving real-world problems with code.
 connect with me on linkdn : www.linkedin.com/in/anagha-dixit-306a742b6
 
