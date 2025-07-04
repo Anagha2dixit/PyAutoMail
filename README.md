@@ -51,9 +51,7 @@ cd PyAutoMail
 
 3. Add your daily report as daily_report.csv
 4. Run the Script
-bash
-Copy
-Edit
+(bash)
 python3 main.py
 
 
