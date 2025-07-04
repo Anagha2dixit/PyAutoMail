@@ -41,4 +41,12 @@ PyAutoMail is a lightweight Python script that **automates the emailing of daily
 git clone https://github.com/Anagha2dixit/PyAutoMail.git
 cd PyAutoMail
 
+## 🙋‍♀️ About Me
+
+Built with 💙 by [Anagha Dixit](https://www.linkedin.com/in/anagha-dixit)  
+I'm an aspiring Data Analyst with a passion for automation, Python scripting, and solving real-world problems with code.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anagha-dixit)  
+💻 Portfolio: Coming soon  
+📬 Email: anghadixit12@gmail.com
 
