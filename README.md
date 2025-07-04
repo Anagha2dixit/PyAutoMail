@@ -28,50 +28,14 @@ PyAutoMail is a lightweight Python script that **automates the emailing of daily
 - Git & GitHub
 
 ---
+## 🙋‍♀️ About Me
 
-## 📂 Project Structure
+Built with 💙 by [Anagha Dixit](https://www.linkedin.com/in/anagha-dixit)  
+I'm an aspiring Data Analyst with a passion for automation, Python scripting, and solving real-world problems with code.
 
-
----
-
-## 📂 Project Structure
-
-...your file structure here...
-
----
-
-## ⚙️ How to Use
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/Anagha2dixit/PyAutoMail.git
-cd PyAutoMail
-2. Create mail_config.json
-... your setup instructions ...
-
-3. Add your daily report as daily_report.csv
-4. Run the Script
-(bash)
-python3 main.py
-
-
-#License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-## 🛠️ To Fix It in VS Code:
-1. Scroll to the `## 🙋‍♀️ About Me` section
-2. Cut that block (`Cmd + X`)
-3. Paste it **after** the Screenshot or just before the License section
-
----
-
-Let me know if you'd like me to review your full README one last time before finalizing and sharing it publicly!
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anagha-dixit)  
+💻 Portfolio: Coming soon  
+📬 Email: anghadixit12@gmail.com
 
 
 
@@ -80,4 +44,11 @@ Let me know if you'd like me to review your full README one last time before fin
 
 
 
-Ask ChatGPT
+
+
+
+
+
+
+
+
