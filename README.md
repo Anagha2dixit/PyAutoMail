@@ -55,3 +55,29 @@ cd PyAutoMail
 python3 main.py
 
 
+#License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ To Fix It in VS Code:
+1. Scroll to the `## 🙋‍♀️ About Me` section
+2. Cut that block (`Cmd + X`)
+3. Paste it **after** the Screenshot or just before the License section
+
+---
+
+Let me know if you'd like me to review your full README one last time before finalizing and sharing it publicly!
+
+
+
+
+
+
+
+
+Ask ChatGPT
