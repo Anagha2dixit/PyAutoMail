@@ -31,3 +31,14 @@ PyAutoMail is a lightweight Python script that **automates the emailing of daily
 
 ## 📂 Project Structure
 
+
+---
+
+## ⚙️ How to Use
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/Anagha2dixit/PyAutoMail.git
+cd PyAutoMail
+
+
